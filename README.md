@@ -15,6 +15,9 @@ POCs for Shellcode Injection via Callbacks.
     11, EnumSystemCodePagesA		Works
     12, EnumDesktopsW			Works
     13, EnumSystemCodePagesW		Works
-    
+
+### Detection:
+[Detection: System Event Logs](https://twitter.com/bofheaded/status/1353667306040262657)
+
 ### Credits:
 @bofheaded & @0xhex21
